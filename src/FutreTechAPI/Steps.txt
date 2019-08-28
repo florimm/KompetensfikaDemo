@@ -1,0 +1,5 @@
+﻿1. Current situation
+2. Better situation (decorators)
+3. What IF (request/response)
+4. All the way (SOLID)
+5. All the way V2 (SOLID)
